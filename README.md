@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, meu nome é Vinícius Assis 👋
 
-<!--
-**ViniiAssis/ViniiAssis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou formado em Física pela Universidade Católica de Pernambuco - UNICAP
+- 🌱 Atualmente estudo Desenvolvimento de Sistemas na Escola Técnica Estadual Cicero Dias
 
-Here are some ideas to get you started:
+<h2> Tecnologias</h2>
+<div>
+<img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height = "50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Redes</h2>
+<div>
+<a href="https://www.linkedin.com/in/vinícius-assis-a06494111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="viniciusassisilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
