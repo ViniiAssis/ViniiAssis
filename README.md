@@ -13,6 +13,6 @@
 
 <h2>Redes</h2>
 <div>
-<a href="https://www.linkedin.com/in/vinícius-assis-a06494111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="viniciusassisilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vinícius-assis-a06494111" target="_blank"><img height = "30cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a> 
+<a href="viniciusassisilva@gmail.com" target="_blank"><img height = "30cm" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/gmail-logo-freelogovectors.net_.png" target="_blank"></a> 
 </div>
