@@ -1,6 +1,5 @@
 ## Olá, meu nome é Vinícius Assis 👋
 
-- 🔭 Sou formado em Física.
 - 🌱 Atualmente estudo Desenvolvimento de Sistemas na Escola Técnica Estadual Cicero Dias
 
 <h2> Tecnologias</h2>
